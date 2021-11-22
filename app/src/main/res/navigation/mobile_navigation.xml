@@ -23,7 +23,7 @@
         <argument
             android:name="galleryItemId"
             app:argType="integer"
-            android:defaultValue="1" />
+            android:defaultValue="114" />
     </fragment>
 
     <fragment
